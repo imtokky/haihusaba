@@ -14,7 +14,7 @@
 
 サーバーでもっと色んな情報など、共有・質問しよう！
 
-[サーバーに参加する](https://discord.gg/tokky)
+[サーバーに参加する](https://discord.gg/xuevdjdpag)
 
 ## ツール系
 <details>
