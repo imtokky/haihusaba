@@ -10,7 +10,7 @@
 
 **掲載されている内容は全て教育目的であり、自己責任です。**
 
-最終更新日：2025/06/22
+最終更新日：2025/07/17
 
 サーバーでもっと色んな情報など、共有・質問しよう！
 
@@ -106,12 +106,18 @@ http://clansamuraijapan.blog70.fc2.com/blog-entry-14.html
 
 ## サイト系
 <details>
+<summary>似た文字を探せるサイト</summary>
+
+- [catincat](https://catincat.jp/javascript/char2bits.html)
+</details>
+
+<details>
 <summary>ip特定</summary>
 
 - [iplogger.org](https://iplogger.org/)
 - [goo.by](https://goo.by/url-shorteners/iplogger)
 - [opentracker.net](https://www.opentracker.net/feature/ip-tracker/)
-
+https://catincat.jp/javascript/char2bits.html
 - [ipinfo.io（調べるやつ）](https://ipinfo.io)
 </details>
 <details>
